@@ -1,0 +1,11 @@
+﻿  state_minimization.cpp
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(78,22): warning C4018: '<': signed/unsigned mismatch
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(99,22): warning C4018: '<': signed/unsigned mismatch
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(134,41): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(136,24): warning C4018: '<': signed/unsigned mismatch
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(140,24): warning C4018: '<': signed/unsigned mismatch
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(226,24): warning C4018: '<': signed/unsigned mismatch
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(292,22): warning C4018: '<': signed/unsigned mismatch
+D:\NTUST Courses\數位邏輯設計\State Minimization\state_minimization.cpp(313,22): warning C4018: '<': signed/unsigned mismatch
+  State Minimization.vcxproj -> D:\NTUST Courses\數位邏輯設計\State Minimization\Debug\State Minimization.exe

@@ -1,0 +1,6 @@
+﻿  Minimization.cpp
+D:\NTUST Courses\數位邏輯設計\Exact Boolean Minimization\Minimization.cpp(149,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\NTUST Courses\數位邏輯設計\Exact Boolean Minimization\Minimization.cpp(161,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\NTUST Courses\數位邏輯設計\Exact Boolean Minimization\Minimization.cpp(304,68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\NTUST Courses\數位邏輯設計\Exact Boolean Minimization\Minimization.cpp(397,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Exact Boolean Minimization.vcxproj -> D:\NTUST Courses\數位邏輯設計\Exact Boolean Minimization\x64\Debug\Exact Boolean Minimization.exe
